@@ -1,0 +1,2 @@
+# techNotes
+Simple MERN app
